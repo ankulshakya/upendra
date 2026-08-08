@@ -1,2 +1,0 @@
-# upendrashaya
-discord bot
